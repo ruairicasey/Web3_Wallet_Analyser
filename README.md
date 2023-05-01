@@ -7,4 +7,4 @@ Set up:
 - Installed the ethers.js library. https://docs.ethers.org/v6/getting-started/
 - Registered an account with Infura, created a new Infura project and obtained my project API key. https://app.infura.io/register
 
-https://user-images.githubusercontent.com/110678501/235448008-aca4bde6-9ae8-44dd-abd7-e22ac88025d0.mov
+https://user-images.githubusercontent.com/110678501/235449077-5388ce1a-5909-4035-9080-b168876e1698.mov
